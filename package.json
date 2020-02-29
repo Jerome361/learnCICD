@@ -1,7 +1,6 @@
 {
   "name": "grading-jerome",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -13,5 +12,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^25.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerome361/learnCICD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jerome361/learnCICD/issues"
+  },
+  "homepage": "https://github.com/Jerome361/learnCICD#readme",
+  "description": ""
 }
